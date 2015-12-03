@@ -1,0 +1,48 @@
+Last login: Mon Nov 30 15:39:42 on ttys001
+ GA General Assembly  Web Development Immersive 
+------------------------------------------
+git version 2.6.3
+Homebrew 0.9.5 (git revision 93a8; last commit 2015-11-30)
+^[[Bruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin15]
+node v5.1.0
+psql (PostgreSQL) 9.4.5
+------------------------------------------
+type unwelcome to remove this message
+christopher ~
+$ nano .bash_profile
+
+
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6             File: .bash_profile                                
+
+#  _              _                        __ _ _
+# | |__  __ _ ___| |__    _ __  _ __ ___  / _(_) | ___
+# | '_ \ / _` / __| '_ \  | '_ \| '__/ _ \| |_| | |/ _ \
+# | |_) | (_| \__ \ | | | | |_) | | | (_) |  _| | |  __/
+# |_.__/ \__,_|___/_| |_| | .__/|_|  \___/|_| |_|_|\___|
+#                         |_|
+
+# When Bash starts, it executes the commands in this script
+# http://en.wikipedia.org/wiki/Bash_(Unix_shell)
+
+# Written by Philip Lamplugh, Instructor General Assembly (2013-2015)
+# Updated by PJ Hughes, Instructor General Assembly (2013-2015)
+# Updated by Keyan Bagheri, Instructor General Assembly (2015)
+
+# =====================
+# Resources
+# =====================
+
+# http://cli.learncodethehardway.org/bash_cheat_sheet.pdf
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
