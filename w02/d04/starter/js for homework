@@ -1,0 +1,5 @@
+var checking = 0
+var savings = 0
+var withdrawal = - checking or savings
+var deposit = + checking or savings
+

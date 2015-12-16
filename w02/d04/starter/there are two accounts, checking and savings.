@@ -1,0 +1,18 @@
+there are two accounts, checking and savings.
+
+/*for any account: */
+
+/* if withdrawal > Balance
+Return, "not enough funds." */
+
+/*if amount is 0
+Return Red number 0*/
+
+/*if amount is not a numerical value
+Return "Please enter A Numerical amount"*/
+
+/*for any deposit, add the deposit to the balance of that account, and update the balance for that specific account
+For any withdrawl < Balance, subtract the withdrawal from the balance, and update the balance for that specific account.
+ */
+
+
